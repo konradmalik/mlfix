@@ -1,0 +1,15 @@
+artifact_uri: file:///fake/path/mlflow/mlruns/0/6e6280f331a94bf388fa9d0de0ecee99/artifacts
+end_time: 1597955525819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6e6280f331a94bf388fa9d0de0ecee99
+run_uuid: 6e6280f331a94bf388fa9d0de0ecee99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1597955525771
+status: 3
+tags: []
+user_id: konrad

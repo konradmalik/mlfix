@@ -1,0 +1,6 @@
+black
+mypy
+pytest
+autoflake
+twine
+mlflow-skinny >= 1.16.0
